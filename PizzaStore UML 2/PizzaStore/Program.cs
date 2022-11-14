@@ -1,0 +1,3 @@
+﻿using PizzaStore;
+
+Store.Start();

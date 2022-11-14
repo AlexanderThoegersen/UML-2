@@ -1,0 +1,75 @@
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.exe
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.deps.json
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.runtimeconfig.json
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.dll
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.pdb
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.AssemblyInfo.cs
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.dll
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore\PizzaStore\obj\Debug\net6.0\refint\PizzaStore.dll
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.pdb
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.genruntimeconfig.cache
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore\PizzaStore\obj\Debug\net6.0\ref\PizzaStore.dll
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\bin\Debug\net6.0\PizzaStore.exe
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\bin\Debug\net6.0\PizzaStore.deps.json
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\bin\Debug\net6.0\PizzaStore.runtimeconfig.json
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\bin\Debug\net6.0\PizzaStore.dll
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\bin\Debug\net6.0\PizzaStore.pdb
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\PizzaStore.AssemblyInfo.cs
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\PizzaStore.dll
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\refint\PizzaStore.dll
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\PizzaStore.pdb
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\PizzaStore.genruntimeconfig.cache
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\ref\PizzaStore.dll
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\bin\Debug\net6.0\PizzaStore.exe
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\bin\Debug\net6.0\PizzaStore.deps.json
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\bin\Debug\net6.0\PizzaStore.runtimeconfig.json
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\bin\Debug\net6.0\PizzaStore.dll
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\bin\Debug\net6.0\PizzaStore.pdb
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\PizzaStore.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\PizzaStore.dll
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\refint\PizzaStore.dll
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\PizzaStore.pdb
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\PizzaStore.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore - aflevering\PizzaStore\obj\Debug\net6.0\ref\PizzaStore.dll
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\bin\Debug\net6.0\PizzaStore.exe
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\bin\Debug\net6.0\PizzaStore.deps.json
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\bin\Debug\net6.0\PizzaStore.runtimeconfig.json
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\bin\Debug\net6.0\PizzaStore.dll
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\bin\Debug\net6.0\PizzaStore.pdb
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\PizzaStore.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\PizzaStore.dll
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\refint\PizzaStore.dll
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\PizzaStore.pdb
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\PizzaStore.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\ref\PizzaStore.dll
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\bin\Debug\net6.0\PizzaStore.exe
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\bin\Debug\net6.0\PizzaStore.deps.json
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\bin\Debug\net6.0\PizzaStore.runtimeconfig.json
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\bin\Debug\net6.0\PizzaStore.dll
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\bin\Debug\net6.0\PizzaStore.pdb
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\PizzaStore.AssemblyInfo.cs
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\PizzaStore.dll
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\refint\PizzaStore.dll
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\PizzaStore.pdb
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\PizzaStore.genruntimeconfig.cache
+C:\Users\Alexander\Google Drev\Datamatik\semester 1\PizzaStore UML 2\PizzaStore\obj\Debug\net6.0\ref\PizzaStore.dll
